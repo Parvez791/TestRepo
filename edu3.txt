@@ -1,3 +1,6 @@
 <...DOCTYPE HTML....>
 <html>
+<body>
+<p> Its a nice day</p>
+</body>
 </html>
