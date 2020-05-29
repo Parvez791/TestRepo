@@ -3,3 +3,5 @@ if input=='yes':
     print("eat burger")
 else:
     print('do your homework')
+
+    print("its updated")
